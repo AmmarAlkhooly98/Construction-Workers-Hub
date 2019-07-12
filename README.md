@@ -9,7 +9,7 @@ In this Application we built called Construction Workers Hub solves this real wo
 
 When you first open the Construction Workers Hub application you’ll see two buttons, one with a picture of a construction worker which takes you to the sign up page for the construction workers, after you sign up you’ll be directed to the sign in page then to your profile as a construction worker. The other button has a picture of an engineer which will take you to the engineer sign up page, after you sign up and sign in successfully, you’ll be directed to your profile as an engineer where you can click on one of the buttons to view all the construction workers by category, ex: stone builders button will take you to all the stone builder workers, which also applies to all the categories available. Once you click on one of the worker categories and then click on go to profile you’ll be directed to that worker’s profile you’ve chosen, there you can book that worker provided an end date and you can also message him from the application itself if you need to.
 
-## Construction Workers Hub application files Documentation
+## Construction Workers Hub/files Documentation
 
 client folder: contains an app.jsx file, another folder named components which contains all the                     components for the application and folder named firebase with an index.js file for                   the api connection with firebase for the profile photo.
 
